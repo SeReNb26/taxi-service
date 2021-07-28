@@ -1,6 +1,6 @@
 # Taxi Service
+![taxi](https://www.labparlamento.it/wp-content/uploads/2017/02/TAXI.jpg)
 <hr>
-![alt text](https://sobitie.com.ua/sites/default/files/styles/850x520/public/2021-01/taksi.jpg?itok=b9lvSZfR)<br>
 This project is an example of a simple taxi service. It is based on a 3-tier architecture. All visualization is implemented as a web page. The information is stored in a database.<br><br> 
 The project supports the following functionality: <br><br>
 <li>Driver registration</li>
