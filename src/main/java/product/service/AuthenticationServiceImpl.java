@@ -9,7 +9,6 @@ import product.model.Driver;
 
 @Service
 public class AuthenticationServiceImpl implements AuthenticationService {
-    private static final Injector injector = Injector.getInstance("mate");
     @Inject
     private DriverService driverService;
 
