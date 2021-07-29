@@ -1,4 +1,4 @@
-package product.service;
+package product.service.impl;
 
 import java.util.List;
 import org.apache.logging.log4j.LogManager;
@@ -7,6 +7,7 @@ import product.dao.ManufacturerDao;
 import product.lib.Inject;
 import product.lib.Service;
 import product.model.Manufacturer;
+import product.service.ManufacturerService;
 
 @Service
 public class ManufacturerServiceImpl implements ManufacturerService {
