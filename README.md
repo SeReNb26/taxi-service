@@ -32,6 +32,6 @@ The project supports the following functionality: <br><br>
 3. Go to ConnectionUtil class and change login and password to your own
 4. Run the script from the init_db.sql file in the workbench <br>
 5. Click on the folder with the package name and create a new folder "logs" with the file "app.log" <br>
-6. Change the path to the log.app file in the configuration log4j2.xml file 
+6. Change the path to the log.app file in the configuration log4j2.xml file to your own
 7. Run the program <br>
 8. Go to http://localhost:8080 and click on "Register" to add a new driver
